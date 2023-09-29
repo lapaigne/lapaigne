@@ -1,7 +1,6 @@
 ### Hi there 👋
-used to be lapaigne
 
-*using md files is such fun*
+blah blah blah something
 <!--
 **ollialin/ollialin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
